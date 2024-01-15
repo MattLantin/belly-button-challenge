@@ -14,7 +14,7 @@ The interactive dashboard is built using JavaScript and allows users to delve in
 
 To enhance user interaction, the dashboard includes features that allow dynamic selection of OTUs, updating visual components in real-time based on user inputs.
 
-You can see the live version of the dashboard hosted on GitHub Pages: [Gut Microbiome Exploration Dashboard](#).
+You can see the live version of the dashboard hosted on GitHub Pages: [Gut Microbiome Exploration Dashboard](https://mattlantin.github.io/belly-button-challenge/).
 
 ## Guide to the Repository Layout
 
